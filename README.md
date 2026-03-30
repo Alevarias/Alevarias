@@ -3,7 +3,7 @@
 I build machine learning systems and experiment with usage in computer vision, gene signature development, and web traffic analysis
 
 ## Currently Learning
-- Node.js, React, and Axum.
+Node.js, React, and Axum.
 
 ## Skills
 **Languages**
@@ -30,7 +30,7 @@ A CNN model trained on QUIC traffic flow features (size, directionality, interar
 A TCN model trained on MediaPipe landmarks and derived features (angles and velocity) to classify individual repetition exercise and validity. 
 [View Repo](https://github.com/Alevarias/cal-detect)
 
-## CuratedTBExplorer
+### CuratedTBExplorer
 An interactive application for analyzing tuberculosis gene expression data and using ensemble learning techniques to explore gene signatures that distinguish patients with PTB, LTBI, and control.
 [View Repo](https://github.com/wejlab/curatedTBExplorer)
 
