@@ -32,8 +32,8 @@ A TCN model trained on MediaPipe landmarks and derived features (angles and velo
 An interactive application for analyzing tuberculosis gene expression data and using ensemble learning techniques to explore gene signatures that distinguish patients with PTB, LTBI, and control.
 
 ## Contact
-LinkedIn: www.linkedin.com/in/alex-sierra-44a50a22a
-Email: alexjusticesierra@gmail.com
+- LinkedIn: www.linkedin.com/in/alex-sierra-44a50a22a
+- Email: alexjusticesierra@gmail.com
 
 <!--
 **Alevarias/Alevarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
