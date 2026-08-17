@@ -34,6 +34,6 @@ A project using direct collocation with OpenSim Moco to simulate a walking skele
 A CNN model trained on QUIC traffic flow features (size, directionality, interarrival time) to classify visited websites. 
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/alex-sierra-44a50a22a
-- Email: alexjusticesierra@gmail.com
-- Resume: https://alevarias.github.io/alex_sierra_resume.pdf
+- LinkedIn: [www.linkedin.com/in/alex-j-sierra/](https://www.linkedin.com/in/alex-j-sierra/)
+- Email: [alexjusticesierra@gmail.com](https://mail.google.com/mail/u/0/?to=alexjusticesierra@gmail.com&su=&body=&fs=1&tf=cm)
+- Resume: [alex_sierra_resume.pdf](https://alevarias.github.io/alex_sierra_resume.pdf)
